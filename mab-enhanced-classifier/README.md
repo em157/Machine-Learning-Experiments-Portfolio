@@ -6,7 +6,6 @@ This project explores anomaly detection on the MVTec dataset using image embeddi
 - `nb_script.py`: main notebook-exported workflow for embedding extraction and kNN evaluation
 - `MAB_kNN_Anomaly_Detection.ipynb`: presentation-oriented notebook with executive summary
 - `notebook_1.ipynb`: working notebook with the full embedding and anomaly-scoring pipeline
-- `Evan_Morrow_MAB_kNN_Anomaly_Detection.pdf`: project write-up
 
 ## Approach
 - Extract image embeddings from MVTec categories using torchvision or timm backbones

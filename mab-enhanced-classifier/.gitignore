@@ -5,6 +5,14 @@ __pycache__/
 *.pyo
 *.pyd
 .ipynb_checkpoints/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tif
+*.tiff
 *.parquet
 *.joblib
 *.csv
