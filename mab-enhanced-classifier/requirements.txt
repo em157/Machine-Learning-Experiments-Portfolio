@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+torch
+torchvision
+pillow
+timm
+scikit-learn
+joblib
+faiss-cpu
+pyarrow

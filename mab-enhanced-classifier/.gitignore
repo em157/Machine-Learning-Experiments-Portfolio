@@ -1,0 +1,10 @@
+mvtec_anomely_dataset/
+extraneous/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.parquet
+*.joblib
+*.csv

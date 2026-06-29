@@ -16,6 +16,18 @@ LLMind is my flagship systems-oriented AI project. It demonstrates how a multi-p
 - secret hygiene, path sanitization, and artifact safety
 - end-to-end developer tooling and documentation
 
+### MAB-Enhanced Classifier for Image Anomaly Detection
+**Focus:** computer vision, anomaly detection, embedding pipelines, adaptive thresholding
+
+This project explores anomaly detection on the MVTec dataset using pretrained image embeddings, k-nearest neighbors similarity, PCA-based feature compression, and a multi-armed bandit strategy for threshold calibration.
+
+**What it demonstrates**
+- embedding extraction with torchvision and timm backbones
+- kNN-based anomaly scoring on industrial inspection images
+- PCA fit on normal-only reference samples
+- threshold optimization with bandit-style decision logic
+- notebook-driven experimentation and result communication
+
 ## Selected project categories
 
 ### Machine learning experiments
